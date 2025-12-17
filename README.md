@@ -245,7 +245,9 @@ See `reports/drift_analysis/` for detailed reports.
 
 ## Team Members
 
-*(Add your team member names here)*
+*Yashwanth Kosanam*
+*Loka Poojitha Dondeti*
+*Monika Subramanian*
 
 ---
 
